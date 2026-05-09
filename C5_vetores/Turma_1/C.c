@@ -3,6 +3,7 @@
 int main() {
     int n;
     scanf("%d", &n);
+    
     char resultados[1001];
     for (int i = 0; i < n; i++) {
         scanf(" %c", &resultados[i]);

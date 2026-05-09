@@ -5,7 +5,6 @@ int main(){
     scanf("%d", &n);
     
     int cofre[n];
-
     for(int i = 0; i < n; ++i){
         scanf("%d", &cofre[i]);
     }
